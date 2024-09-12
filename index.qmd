@@ -1,0 +1,13 @@
+---
+title: "Welcome to Grace Nguyen's website"
+---
+
+## Hi, my name is Grace Nguyen, I am a final year student at the University of Toronto. With a background in Mathematical Applications in Economics and Finance, I have cultivated a deep understanding of Economics, Finance, and Applied Math while acquiring proficiency in Python, SQL, and Tableau.
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
